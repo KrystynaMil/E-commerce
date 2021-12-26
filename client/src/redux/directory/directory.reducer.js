@@ -20,10 +20,10 @@ const INITIAL_STATE = {
       },
       {
         title: 'womens',
-        imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+        imageUrl: 'https://i.ibb.co/xzqZMwj/pexels-freestocksorg-291762-1.jpg',
         size: 'large',
         id: 4,
-        linkUrl: 'shop/womens'
+        linkUrl: 'shop/women'
       },
       {
         title: 'mens',
