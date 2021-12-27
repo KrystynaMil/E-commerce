@@ -12,3 +12,4 @@
 ## Start for dev
 - `npm i`
 - `npm start`
+- `nodemon server.js`
