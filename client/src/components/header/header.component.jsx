@@ -18,10 +18,8 @@ import CartIcon from '../cart-icon/cart-icon.component';
 const Header = ({ currentUser, hidden, signOutStart }) => (
   <div className='header'>
     <Link className='logo-container' to='/'>
-    <span className='logo'>E-SHOP</span>
    <Logo className='logo' />
-  
-     </Link>
+  </Link>
     <div className='options'>
       <Link className='option' to='/shop'>
         SHOP
